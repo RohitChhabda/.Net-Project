@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Home Page" Language="VB"  AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="CollegeProject._Default" %>
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeFile="Default.aspx.vb" Inherits="_Default" %>
 
 <!DOCTYPE html>
 
@@ -8,7 +8,7 @@
  <style>
             body
             {
-                   background-image:url('login.jpg');
+                   background-image:url('Images/login.jpg');
                    background-repeat:no-repeat;
                    background-attachment:fixed;
             }
